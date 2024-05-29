@@ -1,4 +1,4 @@
-﻿using System.Transactions;
+﻿using Fina.Core.Models;
 using Fina.Core.Requests.Transactions;
 using Fina.Core.Responses;
 
